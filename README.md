@@ -31,7 +31,7 @@ plugins=(
 **3. Reload your terminal:**
 run `source ~/.zshrc`
 
-**4. Close and open your terminal (optional): ** It's highly recommended to just close your terminal completely and open a fresh one. This guarantees the caching system and background jobs kick in perfectly! 🎉
+**4. Close your terminal and open a fresh one:** It's highly recommended to just close your terminal completely and open a fresh one. This guarantees the caching system and background jobs kick in perfectly! 🎉
 
 ---
 
