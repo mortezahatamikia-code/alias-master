@@ -11,7 +11,7 @@ Since this is a proper Zsh plugin, we'll install it right into your Oh My Zsh cu
 **1. Clone the repository:**
 Fire up your terminal and clone the repo into your custom plugins directory:
 ```zsh
-git clone https://github.com/YOUR_USERNAME/alias-master.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/alias-master
+git clone https://github.com/YOUR_USERNAME/alias-master.git $ZSH/custom/plugins/alias-master
 ```
 
 **2. Enable the plugin:**
